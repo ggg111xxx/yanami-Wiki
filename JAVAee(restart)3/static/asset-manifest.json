@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.451a949b.css",
+    "main.js": "/static/js/main.86464fd9.js",
+    "static/media/XiaolaiSC-Regular.ttf": "/static/media/XiaolaiSC-Regular.ffc16a31ac8b13e0fc17.ttf",
+    "static/media/Today is a beautiful day.png": "/static/media/Today is a beautiful day.739d5873023103083083.png",
+    "index.html": "/index.html",
+    "main.451a949b.css.map": "/static/css/main.451a949b.css.map",
+    "main.86464fd9.js.map": "/static/js/main.86464fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.451a949b.css",
+    "static/js/main.86464fd9.js"
+  ]
+}
